@@ -1,2 +1,5 @@
 # chatbot-in-python
-In this program I have created chat-bot 
+installing nltk library 
+
+python -m pip install nltk
+
